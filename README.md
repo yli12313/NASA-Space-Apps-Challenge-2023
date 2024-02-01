@@ -2,7 +2,7 @@
 
 ## Cameroonionauts - 2nd Place Winners! ##
 
-- 2nd Place Winning Certificate located [here](https://github.com/yli12313/NASA_SpaceAppChallenge/blob/main/certificate/Secon%20Place%20Award.pdf)!
+- **2nd Place Winning Certificate** located [here](https://github.com/yli12313/NASA_SpaceAppChallenge/blob/main/certificate/Secon%20Place%20Award.pdf)!
 
 ## Demo Video ##
 [Watch a demo](https://youtu.be/oupZIneJzl4?si=ewoqFXbj7z9YqSix)
